@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [proi-ui](https://github.com/specialdoom/proi-ui) and my master degree.
+- 🔭 I’m currently working on [proi-ui](https://github.com/specialdoom/proi-ui)
 - 🌱 I’m currently researching micro frontends and web components
 - 🤔 I’m looking for help with [proi-ui](https://github.com/specialdoom/proi-ui).
 - 💬 Ask me about [proi-ui](https://github.com/specialdoom/proi-ui) or anything.
