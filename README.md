@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [proi-ui](https://github.com/specialdoom/proi-ui)
-- 🌱 I’ve currently accepted the Daily UI challenge as part of my UI/UX journey
+- 🔭 I’m currently working on [solid-rev-kit](https://github.com/specialdoom/solid-rev-kit) as part of solidjs hackathon
 - 🤔 I’m looking for help with [proi-ui](https://github.com/specialdoom/proi-ui).
 - 💬 Ask me about [proi-ui](https://github.com/specialdoom/proi-ui) or anything.
-- ⚡ Fun fact: i'm playing Fortnite 
+- ⚡ Fun fact: i'm playing Fortnite and LOL
